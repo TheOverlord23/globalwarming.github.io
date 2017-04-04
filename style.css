@@ -68,7 +68,7 @@ div {
 .button{
   background-color: white;
   width: 15%;
-  min-width: 100px;
+  min-width: 50px;
   border: none;
   color: black;
   padding: 15px 32px;
