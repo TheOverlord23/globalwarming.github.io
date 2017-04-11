@@ -97,3 +97,6 @@ p.left{
 a:hover{
 	box-shadow: 5px 5px 5px #D6D6D6;
 }
+p:bold{
+	font-weight: bold;
+}
