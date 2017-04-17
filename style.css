@@ -51,7 +51,11 @@ table {
 
 body {
   font-family: sans-serif;
-  text-align: center; 
+  text-align: left; 
+}
+
+header {
+	text-align: center;
 }
 
 #grad {
@@ -62,9 +66,6 @@ body {
 	background: linear-gradient(red, white); /* Standard syntax */
 }
 
-div {
-	height:100vh;
-}
 .button{
 	background-color: white;
 	width: 15%;
@@ -87,9 +88,8 @@ div {
 	width: 100%;
 }
 
-.text-left{
-	text-align: left;
-	margin-left: 100px; 
+.text-center{
+	text-align: center; 
 }
 .picture{
 	width: 200px;
@@ -98,6 +98,17 @@ div {
 a.z:hover{
 	box-shadow: 5px 5px 5px #D6D6D6;
 }
-p:bold{
+.bold{
 	font-weight: bold;
+}
+
+ul.list {
+	display: block;
+    list-style-type: disc;
+    margin: 1em 0 1em 0;
+	padding-left: 40px;
+}
+
+.margin {
+	margin-left: 100px;
 }
