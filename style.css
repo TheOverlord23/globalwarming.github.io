@@ -87,7 +87,7 @@ div {
 	width: 100%;
 }
 
-p.text-left:left{
+.text-left{
 	text-align: left;
 	margin-left: 100px; 
 }
