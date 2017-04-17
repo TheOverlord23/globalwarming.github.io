@@ -87,7 +87,7 @@ div {
 	width: 100%;
 }
 
-p, li.left{
+p, ul.left{
 	text-align: left;
 }
 .picture{
