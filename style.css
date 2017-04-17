@@ -87,7 +87,7 @@ div {
 	width: 100%;
 }
 
-p, ul.left{
+p, ul:left{
 	text-align: left;
 	text-indent: 1em; 
 }
