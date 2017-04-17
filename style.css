@@ -87,9 +87,9 @@ div {
 	width: 100%;
 }
 
-p, ul:left{
+p.left:left{
 	text-align: left;
-	text-indent: 1em; 
+	margin-left: 100px; 
 }
 .picture{
 	width: 200px;
