@@ -55,6 +55,12 @@ body {
   font-size: 14pt;
 }
 
+p {
+	line-height: 1.3;
+	margin-top: .7em;
+	margin-bottom: .7em;
+}
+
 header {
 	text-align: center;
 }
@@ -108,6 +114,7 @@ ul.list {
     list-style-type: disc;
     margin: 1em 0 1em 0;
 	padding-left: 40px;
+	line-height: 1.3;
 	border: 2px solid black;
 	border-radius: 8px;
 	background-color: #BF1407;
