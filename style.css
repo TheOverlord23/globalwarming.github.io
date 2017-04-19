@@ -122,3 +122,8 @@ ul.list {
 .margin-2 {
 	margin-left: 13%;
 }
+
+.video-wrapper {
+	width: 560px;
+	margin: 55px auto 0 auto;
+}
